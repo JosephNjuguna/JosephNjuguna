@@ -27,12 +27,12 @@
 
 ## [<img alt="LinkedIn Img" width="24" src="images/linkedin.png"/>](https://www.linkedin.com/in/joseph-njuguna-884232174/) 
 
----
 ### GitHub Stats
 
-![Njuguna's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephNjuguna&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephNjuguna&langs_count=8)](https://github.com/JosephNjuguna/github-readme-stats)</p>
+![Njuguna's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephNjuguna&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephNjuguna&langs_count=8)](https://github.com/JosephNjuguna/github-readme-stats)</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=JosephNjuguna&theme=jolly" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JosephNjuguna&theme=jolly" width="800">
 
 <!--
 **JosephNjuguna/JosephNjuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
