@@ -25,8 +25,6 @@
 ---
 ### Find Me On:
 ## [<img alt="LinkedIn Img" width="24" src="images/linkedin.png"/>](https://www.linkedin.com/in/joseph-njuguna-884232174/) 
----
 ![Njuguna's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephNjuguna&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephNjuguna&langs_count=6)](https://github.com/JosephNjuguna/github-readme-stats)</p>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=JosephNjuguna&theme=jolly" width="780">
