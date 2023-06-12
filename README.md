@@ -24,28 +24,9 @@
   🌱 ViceTrader, a data analysis software to help forex traders analze their performance with data <br/>
 ---
 ### Find Me On:
-
 ## [<img alt="LinkedIn Img" width="24" src="images/linkedin.png"/>](https://www.linkedin.com/in/joseph-njuguna-884232174/) 
-
-### GitHub Stats
-
+---
 ![Njuguna's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephNjuguna&show_icons=true&theme=radical) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephNjuguna&langs_count=12)](https://github.com/JosephNjuguna/github-readme-stats)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephNjuguna&langs_count=6)](https://github.com/JosephNjuguna/github-readme-stats)</p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=JosephNjuguna&theme=jolly" width="780">
-
-<!--
-**JosephNjuguna/JosephNjuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
