@@ -23,7 +23,12 @@
   
 - Currently Building:<br>
   🌱 ViceTrader, a data analysis windows/mac software to help forex traders analyze their performance with data.<br/>
-  🌱 Stack used : Flutter(FrontEnd),Python(Data manipulation/visualization script),Firebase(Database),Google Auth and Google Pay Intergration, 
+  🌱 Stack been used : 
+                - [x]Flutter(FrontEnd),
+                - [x]Python(Data manipulation/visualization script),
+                - [x]Firebase(Database),
+                - [x]Google Auth(security)
+                - [x]Google Pay Intergration(payment system), 
 ---
 ### Find Me On:
 ## [<img alt="LinkedIn Img" width="24" src="images/linkedin.png"/>](https://www.linkedin.com/in/joseph-njuguna-884232174/) 
