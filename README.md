@@ -18,10 +18,12 @@
   - [x] Version Control(GIT)
   
 - Currently Learning:<br>
-  🌱 Flutter <br/>
+  🌱 Python for AI DEVELOPMENT AND DATA ANALYSIS <br/>
+  🌱 DATA ANALYSIS course by microsoft and linkedin <br/>
   
 - Currently Building:<br>
-  🌱 ViceTrader, a data analysis software to help forex traders analze their performance with data <br/>
+  🌱 ViceTrader, a data analysis windows/mac software to help forex traders analyze their performance with data.<br/>
+  🌱 Stack used : Flutter(FrontEnd),Python(Data manipulation/visualization script),Firebase(Database),Google Auth and Google Pay Intergration, 
 ---
 ### Find Me On:
 ## [<img alt="LinkedIn Img" width="24" src="images/linkedin.png"/>](https://www.linkedin.com/in/joseph-njuguna-884232174/) 
